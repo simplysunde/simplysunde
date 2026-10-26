@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there, I'm Sunde. 
+I make things; coding|3D-modelling and whatever I get curious about next, mostly because I wanted them to exist and nobody had made them yet.
+
+Most of what I share is free. If something helped you, you can support me on Ko-fi.
+
+☕ ko-fi.com/simplysunde
+
 
 <!--
 **simplysunde/simplysunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
