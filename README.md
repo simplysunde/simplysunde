@@ -1,9 +1,11 @@
-## Hello there, I'm Sunde. 
-I make things; coding|3D-modelling and whatever I get curious about next, mostly because I wanted them to exist and nobody had made them yet.
+## Hello there, I'm Sunde.
+
+I make things: code, 3D modelling and whatever I get curious about next, mostly
+because I wanted them to exist and nobody had made them yet.
 
 Most of what I share is free. If something helped you, you can support me on Ko-fi.
 
-☕ ko-fi.com/simplysunde
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/simplysunde)
 
 
 <!--
