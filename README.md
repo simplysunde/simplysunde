@@ -1,24 +1,11 @@
 ## Hello there, I'm Sunde.
 
-I make things: code, 3D modelling and whatever I get curious about next, mostly
-because I wanted them to exist and nobody had made them yet.
+Lost in Thoughts All Alone,\
+I make the things I wish I had:\
+tools, code, 3D, whatever pulls me next.
 
-Most of what I share is free. If something helped you, you can support me on Ko-fi.
+I share them in case they're useful to you too.\
+Most of it is free.\
+`if helpful: tip()  # no strings attached`
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/simplysunde)
-
-
-<!--
-**simplysunde/simplysunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
